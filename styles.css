@@ -12,13 +12,17 @@
 }
 ."item item-1"{
 	grid-area:a;
+	border:2px solid blue;
 }
 ."item item-2"{
 	grid-area:b;
+	border:2px solid green;
 }
 ."item item-3"{
 	grid-area:c;
+	border:2px solid aqua;
 }
 ."item item-4"{
 	grid-area:d;
+	border:2px solid red;
 }
